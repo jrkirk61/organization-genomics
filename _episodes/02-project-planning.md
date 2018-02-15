@@ -12,7 +12,7 @@ keypoints:
 - "Raw sequencing data should be kept raw somewhere, so you can always go back to the original files."
 ---
 
-There are a variety of ways to work with a large sequencing dataset. You may be a novice who has not used
+TEST There are a variety of ways to work with a large sequencing dataset. You may be a novice who has not used
 bioinformatics tools beyond doing BLAST searches. You may have bioinformatics experience with other types of data
 and are working with high-throughput (NGS) sequence data for the first time. In the most important ways, the
 methods and approaches we need in bioinformatics are the same ones we need at the bench or in the field -
